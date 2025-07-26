@@ -1,0 +1,20 @@
+{
+  "name": "breast-cancer-detection-app",
+  "version": "1.0.0",
+  "description": "A web application to detect breast cancer using machine learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BytePhilosopher/breast-cancer-detection-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BytePhilosopher/breast-cancer-detection-app/issues"
+  },
+  "homepage": "https://github.com/BytePhilosopher/breast-cancer-detection-app#readme"
+}
